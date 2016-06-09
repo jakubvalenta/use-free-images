@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import use_free_images.use_free_images
+if __name__ == '__main__':
+    use_free_images.use_free_images.main()
